@@ -17,6 +17,6 @@ jobs:
               echo "جاري تشغيل السكربت: $script"
               chmod +x "$script"
               ./"$script"
-              echo "--------------------------"
+              echo "-------------------------"
             fi
           done
